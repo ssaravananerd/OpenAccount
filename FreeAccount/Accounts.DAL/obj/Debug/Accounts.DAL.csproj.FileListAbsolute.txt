@@ -1,0 +1,14 @@
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\Accounts.DAL.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\Accounts.DAL.pdb
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\Accounts.Model.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Bson.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Driver.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\Accounts.Model.pdb
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Bson.xml
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Driver.xml
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\obj\Debug\Accounts.DAL.csprojResolveAssemblyReference.cache
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\obj\Debug\Accounts.DAL.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.DAL\obj\Debug\Accounts.DAL.pdb

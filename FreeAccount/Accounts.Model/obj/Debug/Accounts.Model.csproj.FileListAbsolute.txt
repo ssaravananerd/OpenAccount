@@ -1,0 +1,7 @@
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\bin\Debug\Accounts.Model.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\bin\Debug\Accounts.Model.pdb
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\obj\Debug\Accounts.Model.csprojResolveAssemblyReference.cache
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\obj\Debug\Accounts.Model.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\obj\Debug\Accounts.Model.pdb
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\bin\Debug\MongoDB.Bson.dll
+D:\GitHub Repository\OpenAccount\FreeAccount\Accounts.Model\bin\Debug\MongoDB.Bson.xml
